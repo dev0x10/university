@@ -1,0 +1,25 @@
+{
+  "name": "university",
+  "version": "0.0.1",
+  "description": "Hapi community learning experiment",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^16.0.0",
+    "hoek": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev0x10/university.git"
+  },
+  "author": "Hueniversity students",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev0x10/university/issues"
+  },
+  "homepage": "https://github.com/dev0x10/university#readme"
+}
